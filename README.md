@@ -1,3 +1,4 @@
 # seleniumTestNgFramework
-Its an apollo application 
+Its an selenium POM Model design
+
 
